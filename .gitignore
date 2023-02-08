@@ -1,3 +1,5 @@
 .idea
-.ipynb_checkpoints
+assignment1/.ipynb_checkpoints
+assignment2/.ipynb_checkpoints
 .git
+assignment2/MNIST_Dataset
